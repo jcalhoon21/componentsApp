@@ -13,5 +13,5 @@ The page will reload if you make edits.
 
 ## Resources Used
 
-Fakerjs [https://github.com/marak/Faker.js/](https://github.com/marak/Faker.js/)
+Fakerjs [https://github.com/marak/Faker.js/](https://github.com/marak/Faker.js/)<br />
 Semantic UI [https://semantic-ui.com/](https://semantic-ui.com/)
